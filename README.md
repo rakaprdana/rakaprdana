@@ -1,6 +1,7 @@
 ## Hi there, I'm Raka Pradana 👋
 # 💫 About Me:
-🌱 I’m currently learning<br>I'm diving into the world of modern web development with:<br><br>
+🌱 I’m currently learning<br>I'm diving into the world of modern web development with:<br><br>🌱 I’m currently learning<br>I'm diving into the world of modern web development with:<br><br>🌟 React: Building dynamic and interactive user interfaces<br><br>🌟 Next.js: Exploring server-side rendering and static site generation<br><br>🌟 Express: Creating robust backend services<br><br>🌟 MongoDB: Managing data with a NoSQL database<br><br>🌟 TailwindCSS: Designing sleek and responsive interfaces
+
 <h3>🚀 Tech Stack:</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> 

@@ -1,6 +1,6 @@
 ## Hi there, I'm Raka Pradana 👋
 # 💫 About Me:
-🌱 I'm currently learning<br>I'm diving into the world of modern web & mobile development with:<br><br>🌟 Kotlin: Building native Android apps with modern, concise syntax<br><br>🌟 Android Studio: Designing, building, and debugging Android applications<br><br>🌟 Jetpack Compose: Crafting declarative, modern Android UIs<br><br>🌟 React: Building dynamic and interactive user interfaces<br><br>🌟 Next.js: Exploring server-side rendering and static site generation<br><br>🌟 Express: Creating robust backend services<br><br>🌟 MongoDB: Managing data with a NoSQL database<br><br>🌟 TailwindCSS: Designing sleek and responsive interfaces
+🌱 I'm currently learning<br>I'm diving into the world of modern web & mobile development with:<br><br>🌟 Kotlin: Building native Android apps with modern, concise syntax<br><br>🌟 Android Studio: Designing, building, and debugging Android applications<br><br>🌟 React: Building dynamic and interactive user interfaces<br><br>🌟 Next.js: Exploring server-side rendering and static site generation<br><br>🌟 Express: Creating robust backend services<br><br>🌟 MongoDB: Managing data with a NoSQL database<br><br>🌟 TailwindCSS: Designing sleek and responsive interfaces
 
 <h3>📱 Android Dev Stack:</h3>
 <p>

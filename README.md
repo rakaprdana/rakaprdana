@@ -4,8 +4,15 @@
 
 ### 💫 About Me
 - 🌱 **Currently Focusing On:** Modern Full-Stack Web Development (React, Next.js, Express, Golang) alongside Native Android Development.
-- 🛠️ **Core Tech Stack:** React, Next.js, TailwindCSS, Express.js, Golang, MongoDB & Kotlin.
-- 🤝 **Let's Connect:** [LinkedIn](https://linkedin.com/in/rakaprdana) | [Instagram](https://instagram.com/rakaprdana_)
+- 🛠️️ **Core Tech Stack:** React, Next.js, TailwindCSS, Express.js, Golang, MongoDB & Kotlin.
+- 🤝 **Let's Connect:**
+
+<p align="left">
+  <a href="https://github.com/rakaprdana"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"></a>
+  <a href="mailto:raka.pradana1103@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"></a>
+  <a href="https://linkedin.com/in/rakaprdana"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"></a>
+  <a href="https://instagram.com/rakaprdana_"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"></a>
+</p>
 
 ### 💻 Core Tech Stack
 <p>
@@ -19,8 +26,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45" height="45" alt="Android"/>
 </p>
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=rakaprdana&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+### 🚀 Featured Projects
+
+**[SeviGo](#)**
+> A responsive web platform designed to simplify public complaint reporting. Features real-time status tracking (Accepted, Processing, Finished, Rejected) and seamless cross-platform accessibility for users across Indonesia.
+> **Tech Stack:** `React`, `TailwindCSS`, `Express.js`, `MongoDB`
+
+**[My Kantong](#)**
+> A personal finance tracker built to solve the hassle of manual budgeting. It allows users to easily log, monitor, and manage daily income and expenses in a clean, intuitive interface.
+> **Tech Stack:** `React`, `TailwindCSS`, `Express`,`MongoDB`, `Gemini AI`
+
+**[ServiceBook](#)**
+> A digital task management application tailored for technicians. It replaces manual paper and chat-based notes, allowing users to efficiently log, organize, and track client product service jobs.
+> **Tech Stack:** `Kotlin`, `SQL`
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rakaprdana&icon=0&color=0)](https://visitcount.itsvg.in)
